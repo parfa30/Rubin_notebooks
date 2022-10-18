@@ -1,0 +1,160 @@
+========================================================================================
+Report      : INFO
+Date        : 2022-10-13T22:58:42+0000
+Description : Process 'python3.10' <37924> attached to shared memory
+Node        : nb-parfa30
+Process     : python3.10 <37924>
+Thread      : main thread 7fc083344740
+Internals   : P674/6.10.4p2/0ff5e2b/1b268cd/attachToFederatedDomain/u_domain.c/1457/0/1665701922.643635436/0
+========================================================================================
+Report      : INFO
+Date        : 2022-10-13T22:59:14+0000
+Description : Removed 1174 objects
+Node        : nb-parfa30
+Process     : python3.10 <37924>
+Thread      : main thread 7fc083344740
+Internals   : P674/6.10.4p2/0ff5e2b/1b268cd/Database close/c_base.c/3133/0/1665701954.953055353/0
+========================================================================================
+Report      : INFO
+Date        : 2022-10-13T22:59:14+0000
+Description : Removed 1174 objects
+Node        : nb-parfa30
+Process     : python3.10 <37924>
+Thread      : main thread 7fc083344740
+Internals   : P674/6.10.4p2/0ff5e2b/1b268cd/Database close/c_base.c/3133/0/1665701954.953806822/0
+========================================================================================
+Report      : INFO
+Date        : 2022-10-13T22:59:14+0000
+Description : Removed 1174 objects
+Node        : nb-parfa30
+Process     : python3.10 <37924>
+Thread      : main thread 7fc083344740
+Internals   : P674/6.10.4p2/0ff5e2b/1b268cd/Database close/c_base.c/3133/0/1665701954.954638161/0
+========================================================================================
+Report      : INFO
+Date        : 2022-10-13T22:59:14+0000
+Description : Removed 1174 objects
+Node        : nb-parfa30
+Process     : python3.10 <37924>
+Thread      : main thread 7fc083344740
+Internals   : P674/6.10.4p2/0ff5e2b/1b268cd/Database close/c_base.c/3133/0/1665701954.955354161/0
+========================================================================================
+Report      : INFO
+Date        : 2022-10-13T23:01:18+0000
+Description : Removed 1174 objects
+Node        : nb-parfa30
+Process     : python3.10 <37924>
+Thread      : main thread 7fc083344740
+Internals   : P674/6.10.4p2/0ff5e2b/1b268cd/Database close/c_base.c/3133/0/1665702078.079320715/0
+========================================================================================
+Report      : INFO
+Date        : 2022-10-13T23:01:18+0000
+Description : Removed 1174 objects
+Node        : nb-parfa30
+Process     : python3.10 <37924>
+Thread      : main thread 7fc083344740
+Internals   : P674/6.10.4p2/0ff5e2b/1b268cd/Database close/c_base.c/3133/0/1665702078.079841208/0
+========================================================================================
+Report      : INFO
+Date        : 2022-10-13T23:01:18+0000
+Description : Removed 1174 objects
+Node        : nb-parfa30
+Process     : python3.10 <37924>
+Thread      : main thread 7fc083344740
+Internals   : P674/6.10.4p2/0ff5e2b/1b268cd/Database close/c_base.c/3133/0/1665702078.080342521/0
+========================================================================================
+Report      : INFO
+Date        : 2022-10-13T23:01:18+0000
+Description : Removed 1174 objects
+Node        : nb-parfa30
+Process     : python3.10 <37924>
+Thread      : main thread 7fc083344740
+Internals   : P674/6.10.4p2/0ff5e2b/1b268cd/Database close/c_base.c/3133/0/1665702078.080794245/0
+========================================================================================
+Report      : INFO
+Date        : 2022-10-13T23:02:31+0000
+Description : Removed 1174 objects
+Node        : nb-parfa30
+Process     : python3.10 <37924>
+Thread      : main thread 7fc083344740
+Internals   : P674/6.10.4p2/0ff5e2b/1b268cd/Database close/c_base.c/3133/0/1665702151.002855211/0
+========================================================================================
+Report      : INFO
+Date        : 2022-10-13T23:02:31+0000
+Description : Removed 1174 objects
+Node        : nb-parfa30
+Process     : python3.10 <37924>
+Thread      : main thread 7fc083344740
+Internals   : P674/6.10.4p2/0ff5e2b/1b268cd/Database close/c_base.c/3133/0/1665702151.003269195/0
+========================================================================================
+Report      : INFO
+Date        : 2022-10-13T23:02:31+0000
+Description : Removed 1174 objects
+Node        : nb-parfa30
+Process     : python3.10 <37924>
+Thread      : main thread 7fc083344740
+Internals   : P674/6.10.4p2/0ff5e2b/1b268cd/Database close/c_base.c/3133/0/1665702151.003723309/0
+========================================================================================
+Report      : INFO
+Date        : 2022-10-13T23:02:31+0000
+Description : Removed 1174 objects
+Node        : nb-parfa30
+Process     : python3.10 <37924>
+Thread      : main thread 7fc083344740
+Internals   : P674/6.10.4p2/0ff5e2b/1b268cd/Database close/c_base.c/3133/0/1665702151.004146683/0
+========================================================================================
+Report      : INFO
+Date        : 2022-10-14T11:52:23+0000
+Description : signal handler received signal 15
+Node        : nb-parfa30
+Process     : python3.10 <37924>
+Thread      : signalHandler 7fbe1a7b8700
+Internals   : P674/6.10.4p2/0ff5e2b/1b268cd/signalHandlerMain/u_signals.c/249/0/1665748343.744111985/0
+========================================================================================
+Report      : INFO
+Date        : 2022-10-14T11:52:23+0000
+Description : Process 'python3.10' <37924> detached from shared memory
+Node        : nb-parfa30
+Process     : python3.10 <37924>
+Thread      : signalHandler 7fbe1a7b8700
+Internals   : P674/6.10.4p2/0ff5e2b/1b268cd/u__domainDelete/u_domain.c/1862/0/1665748343.825565683/0
+========================================================================================
+Report      : INFO
+Date        : 2022-10-14T16:49:36+0000
+Description : Process 'python3.10' <39117> attached to shared memory
+Node        : nb-parfa30
+Process     : python3.10 <39117>
+Thread      : main thread 7f3a33573740
+Internals   : P674/6.10.4p2/0ff5e2b/1b268cd/attachToFederatedDomain/u_domain.c/1457/0/1665766176.061530457/0
+========================================================================================
+Report      : INFO
+Date        : 2022-10-15T05:02:22+0000
+Description : Process 'python3.10' <39117> detached from shared memory
+Node        : nb-parfa30
+Process     : python3.10 <39117>
+Thread      : main thread 7f3a33573740
+Internals   : P674/6.10.4p2/0ff5e2b/1b268cd/u__domainDelete/u_domain.c/1862/0/1665810142.339329624/0
+========================================================================================
+Report      : INFO
+Date        : 2022-10-18T20:51:18+0000
+Description : Process 'python3.10' <58758> attached to shared memory
+Node        : nb-parfa30
+Process     : python3.10 <58758>
+Thread      : main thread 7f4737dff740
+Internals   : P674/6.10.4p2/0ff5e2b/1b268cd/attachToFederatedDomain/u_domain.c/1457/0/1666126278.810667718/0
+========================================================================================
+Report      : INFO
+Date        : 2022-10-18T20:56:10+0000
+Description : Process 'python3.10' <59857> attached to shared memory
+Node        : nb-parfa30
+Process     : python3.10 <59857>
+Thread      : main thread 7fd3d384a740
+Internals   : P674/6.10.4p2/0ff5e2b/1b268cd/attachToFederatedDomain/u_domain.c/1457/0/1666126570.519451905/0
+========================================================================================
+Report      : INFO
+Date        : 2022-10-18T21:00:45+0000
+Description : Process 'python3.10' <60956> attached to shared memory
+Node        : nb-parfa30
+Process     : python3.10 <60956>
+Thread      : main thread 7f23c1237740
+Internals   : P674/6.10.4p2/0ff5e2b/1b268cd/attachToFederatedDomain/u_domain.c/1457/0/1666126845.253645608/0

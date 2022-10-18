@@ -1,0 +1,61 @@
+# Configuration for CBP tests
+
+GENERAL:
+    TEST_NAME: 'code_test'
+    DATA_DIR: '/home/parfa30/DATA/'
+    LIGHT_SOURCE: 'LED' #Laser
+    DISTANCE: 2000 #mm
+    CSC_INCLUDE: 
+      - CBP
+      - CBP_ELEC  
+      - SC_ELEC
+
+CBP:
+    AZ: 5
+    ALT: 0
+    FOCUS: 50
+    MASK: 3
+    PINHOLE: '5mm'
+    NAME: 'CBP'
+    ID: 'None'
+    OVERRIDE: ""
+    
+SPECTRO:
+    EXPTIME: 1
+    NAME: "FiberSpectrograph"
+    ID: 3
+    NUM_EXP: 1
+    OVERRIDE: ""
+
+SC_ELEC:
+    EXPTIME: 1
+    MODE: 2 #1=Current, 2=Charge, 3=Voltage, 4=Resistance
+    RANGE: 2E-07
+    INTTIME: 3e-9
+    NAME: "Electrometer"
+    ID: 2
+    OVERRIDE: "tts_laser_reference_v3.yaml"
+    SC_NAME: 'good_one'
+    
+CBP_ELEC:
+    EXPTIME: 1
+    MODE: 2
+    RANGE: 2e-07
+    INTTIME: 3E-9
+    PD_NAME: 'SM0'
+    NAME: "Electrometer"
+    ID: 4
+    OVERRIDE: "tts_cimacs2_v3.yaml"
+    
+LED:
+    WAVELENGTH: 750
+    LED_PWR: 'None'
+    LED_NAME: 'thorlabs'
+    
+LASER:
+    WAVELENGTH: 750
+    LASERBURST_N: 5
+    LASER_PWR: 'MAX'
+    NAME: 'laser'
+    ID: 'None'
+    OVERRIDE: 'f2_config.yaml'
